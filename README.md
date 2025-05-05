@@ -1,16 +1,26 @@
 # EX No.6.2.DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
-## DATE:
+
+NAME : MOHAMED NIZAMUDDIN A
+
+REG NO : 212224040194
 
 ## AIM: 
+
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
 
+
 ## REQUIREMENTS: 
+
 1. Autodesk fusion 360
+
 2. Windows 10
+
 3. 4 GB of RAM (integrated graphics recommend 6 GB or more)
+
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## COMMANDS USED:
+
 ### Align: 
 The Align tool allows you to align, distribute or organize selected elements, annotations, tags and text along the axis you specify. Furthermore, the Arrange feature will automatically neatly place your tags around the current view.
 The Align plug-in for Autodesk® Revit® can help to save time while producing complex drawings with large sets of annotation.
@@ -24,6 +34,7 @@ The inserted elements update with changes to the original design
 Select the objects to modify then specify the distance or angle. Use set pivot to reposition the manipulator
 
 ## PROCEDURE:
+
 ### STEP 1: 
  Identifying the given model.
 
@@ -48,6 +59,10 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
 
 ## OUTPUT:
+
+
+![Screenshot 2025-05-05 143013](https://github.com/user-attachments/assets/5c293816-ba4e-4307-ba51-65afa6ce38e5)
+
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
